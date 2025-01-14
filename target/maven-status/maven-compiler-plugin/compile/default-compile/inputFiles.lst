@@ -1,0 +1,9 @@
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\Main.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\service\PatientService.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\service\VitalSignService.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\repository\PatientRepository.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\entity\VitalSign.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\repository\VitalSignRepository.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\entity\Patient.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\config\SecurityConfig.java
+X:\Proyectos\medical-alert-system\medical-alert-system (backend)\src\main\java\com\medical\alert\system\controller\PatientController.java
